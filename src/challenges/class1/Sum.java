@@ -1,4 +1,4 @@
-package challanges.class1;
+package challenges.class1;
 
 public class Sum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package challanges.class4;
+package challenges.class4;
 
 import java.util.Scanner;
 

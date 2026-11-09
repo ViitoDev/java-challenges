@@ -1,4 +1,4 @@
-package challanges.class2;
+package challenges.class2;
 
 public class CastingConcatenating {
     public static void main(String[] args) {
